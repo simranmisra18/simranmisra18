@@ -1,6 +1,6 @@
 ## Hi, I'm Simran Misra👋
 
-- 🔭 MS Computer Science Student (Expected Graduation: May 2026)
+- 🔭 MS Computer Science Student at Arizona State University (Expected Graduation: May 2026)
 - ⚡ Expertise in Identity and Access Management
 - 📫 Reach me at: simranmisra2000@gmail.com
 
